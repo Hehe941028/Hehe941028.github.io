@@ -2,3 +2,11 @@
     background: linear-gradient(180deg , #3881ab ,#0496f7);
 }
 
+#about {
+    position: relative; 
+    background-image: url(../assets/img/background.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    color: white;
+}
