@@ -11,6 +11,14 @@
     color: white;
 }
 
-.student-id {
-    color: #bbedaf;
+.text-primary {
+    color:#ebf82f !important;
+} 
+
+.hehe {
+    color: #4afcb2;
+}
+
+.mb-0 {
+    color: bisque;
 }
