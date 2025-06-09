@@ -20,7 +20,7 @@
 }
 
 .school-number {
-    color: rgb(243, 192, 131);
+    color: #5ffe02c9;
 }
 
 .mb-0 {
@@ -29,4 +29,12 @@
 
 .mb-5 {
     color: #154763;
+}
+
+.progress-bar-striped {
+    color: #3881ab;
+}
+
+.mb-3 {
+    color: #54636da1;
 }
